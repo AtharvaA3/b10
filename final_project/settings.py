@@ -141,3 +141,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 #add in atharva file to dvs
 #_____________________
+
+#add var
+"aaaaa"
