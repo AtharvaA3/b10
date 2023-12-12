@@ -16,4 +16,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'final_project.settings')
 application = get_asgi_application()
 
 #add var 
-print("a1")
+print("a222")

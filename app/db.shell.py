@@ -134,5 +134,5 @@ c200.fueltype.add(f1,f2,f3)
 # print(FuelType.objects.filter(models__name__startswith="C"))
 
 # print(c200.fueltype.all())
-# print(c200.fueltype.remove(f3))
+print(c200.fueltype.remove(f3))
 print(c200.fueltype.all())
