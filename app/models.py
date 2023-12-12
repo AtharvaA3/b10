@@ -91,3 +91,7 @@ class CarModel(models.Model):
 
     class Meta:
         db_table = "car"
+
+
+class Car(models.Model):
+    name = models.CharField(max_length=100)
